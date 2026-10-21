@@ -1,11 +1,5 @@
-# Linux Practice
+# Task 4 Pool
 
-Практическая работа: 7 скриптов для работы с файлами.
+Здесь находятся задания из 4-го пула заданий .
 
-- task1.sh 
-- task2.sh 
-- task3.sh 
-- task4.sh 
-- task5.sh 
-- task6.sh 
-- task7.sh 
+task_4_1 - task 4_11
